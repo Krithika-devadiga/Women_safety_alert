@@ -23,26 +23,10 @@ A full-stack web application to help users add emergency contacts and send quick
 
 ## 📁 Folder Structure
 
-Women_safety_alert/
-│
-├── backend/                         # 🖥️ Node + Express Backend
-│   ├── models/                      # Mongoose Models (User, Contact)
-│   ├── routes/                      # API Routes
-│   ├── controllers/ (optional)     # Optional: Separate route logic
-│   ├── middleware/   (optional)    # Optional: Auth / error handling
-│   └── server.js                   # Main backend entry
-│
-├── frontend/                        # 🌐 React Frontend
-│   ├── public/
-│   ├── src/
-│   │   ├── components/             # All components: Login, Register, etc.
-│   │   ├── App.js
-│   │   └── index.js
-│   ├── package.json
-│   └── README.md (optional)
-│
-├── .gitignore
-└── README.md                       # 📄 Project Overview
+- `backend/` – Node.js + Express API with MongoDB
+- `frontend/` – React UI with routing and components
+- `.gitignore` – Ignore node_modules, .env, etc.
+- `README.md` – You’re reading it!             # 📄 Project Overview
 
 
 ## 🛠️ Setup Instructions
