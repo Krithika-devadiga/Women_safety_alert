@@ -33,7 +33,7 @@ A full-stack web application to help users add emergency contacts and send quick
 
 ### 1. Clone the Repository
 
-git clone https://github.com/Krithika-devadiga/Women_safety_alert.git
+git clone https://github.com/username/Women_safety_alert.git
 cd Women_safety_alert
 
 ### 2. Setup Backend
