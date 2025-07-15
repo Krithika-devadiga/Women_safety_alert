@@ -26,7 +26,7 @@ A full-stack web application to help users add emergency contacts and send quick
 - `backend/` – Node.js + Express API with MongoDB
 - `frontend/` – React UI with routing and components
 - `.gitignore` – Ignore node_modules, .env, etc.
-- `README.md` – You’re reading it!             # 📄 Project Overview
+- `README.md` – You’re reading it!             
 
 
 ## 🛠️ Setup Instructions
