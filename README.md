@@ -16,10 +16,7 @@ A full-stack web application to help users add emergency contacts and send quick
 - 🔐 Password Encryption with bcryptjs
 - 🔐 Data stored securely using MongoDB
 
-## 🚧 Upcoming Features (Not Yet Implemented)
 
-- 📍 Share Current Location to Contacts via SMS or API
-- 🗺️ View Emergency Contacts on Google Map
 
 ## 📁 Folder Structure
 
