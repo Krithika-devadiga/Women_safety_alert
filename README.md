@@ -43,4 +43,6 @@ npm install
 node server.js
 
 ### 3. Setup Frontend
-
+cd women-safety-backend
+npm install
+npm start
